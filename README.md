@@ -8,12 +8,12 @@ I’m a passionate developer with a strong foundation in **computer science, alg
 🔭 Currently: Working on **AI-driven apps & web projects**  
 🌱 Learning: **DSA, System Design, Cloud Platforms**  
 🤝 Open to: **Internship opportunities & collaborations**  
-📫 Reach me at: [yuxh1709@gmail.com](mailto:yuxh1709@gmail.com)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-bisht-51bbbb374/)  
 
 ---
 
 ### 🌐 Socials:
-[![Email](https://img.shields.io/badge/yuxh1709@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:yuxh1709@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-bisht-51bbbb374/)  
 
 ---
 
